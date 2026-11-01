@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.test_*
+verify/
+luts/
+shots.json
+stills/
